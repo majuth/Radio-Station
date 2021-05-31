@@ -1,0 +1,49 @@
+<?xml-stylesheet type="text/xsl" href="player1.xsl"?>
+
+<response type="result">
+  <data>
+    <item>
+      <title>Yimago 2 / Hawaiian Music Radio</title>
+      <song>Backyahd - Stay Irie [1999]</song>
+      <track>
+        <artist>Backyahd</artist>
+        <title>Stay Irie [1999]</title>
+        <album>Roots Music: Reggae Hits from Hawaii and the World</album>
+        <royaltytrackid>0</royaltytrackid>
+        <started>1574276263</started>
+        <id>42940</id>
+        <length>0</length>
+        <playlist>
+          <id>1579</id>
+          <title>Y2 &gt; General</title>
+        </playlist>
+        <buyurl></buyurl>
+        <imageurl>http://s20.postimg.cc/8syomexjx/rootsmusic.jpg</imageurl>
+      </track>
+      <bitrate>64 Kbps</bitrate>
+      <server>Online</server>
+      <autodj>Online</autodj>
+      <source>Yes</source>
+      <offline></offline>
+      <summary>&lt;a href=&quot;http://199.195.194.92:2199/tunein/-stream/meyima03.pls&quot;&gt;Yimago 2 / Hawaiian Music Radio - Backyahd - Stay Irie [1999]&lt;/a&gt;</summary>
+      <listeners>2</listeners>
+      <maxlisteners>100</maxlisteners>
+      <reseller>0</reseller>
+      <serverstate>1</serverstate>
+      <sourcestate>1</sourcestate>
+      <sourceconn>1</sourceconn>
+      <date>Nov 20, 2019</date>
+      <time>09:02 AM</time>
+      <rawmeta>Backyahd - Stay Irie [1999]</rawmeta>
+      <mountpoint>/stream</mountpoint>
+      <tuneinurl>http://199.195.194.94:8183/stream</tuneinurl>
+      <directtuneinurl></directtuneinurl>
+      <proxytuneinurl></proxytuneinurl>
+      <tuneinformat>aac</tuneinformat>
+      <webplayer>muses</webplayer>
+      <servertype>ShoutCast2</servertype>
+      <listenertotal>2</listenertotal>
+      <url>http://199.195.194.92:2199/rpc</url>
+    </item>
+  </data>
+</response>
